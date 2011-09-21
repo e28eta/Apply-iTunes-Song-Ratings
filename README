@@ -1,8 +1,8 @@
-This script was found at:
+This script was originally found at:
 http://hints.macworld.com/article.php?story=20080326014420767
 
-It takes a Music.txt tab delineated file from iTunes, and updates Ratings in another
-iTunes library to match.
+It takes a Music.txt tab delineated file from iTunes, and updates Ratings, play & skip 
+counts, last played, and last skipped in another iTunes library to match.
 
 It's fantastic if you transferred your music to a new computer, and then realized that
 by not transferring the Library file you lost all your ratings.
